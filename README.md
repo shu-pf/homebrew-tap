@@ -1,4 +1,4 @@
-# Homebrew Tap Repository README
+# Homebrew Tap Repository
 
 Welcome to the Homebrew Tap repository! This repository is used to host custom Homebrew formulae and casks.
 
