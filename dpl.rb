@@ -4,7 +4,7 @@
 class Dpl < Formula
   desc "Command line tool for deepl translation."
   homepage ""
-  url "https://github.com/shu-pf/dpl/releases/download/v1.0.0/dpl-macos-arm64"
+  url "https://github.com/shu-pf/dpl/releases/download/v1.0.1/dpl-macos-arm64"
   sha256 "74ef06b9d87f290fbc3ee436e46096bf35da8ee5a61c86d79948b36d6ec49d6b"
   license ""
 
