@@ -5,7 +5,7 @@ class Dpl < Formula
   desc "Command line tool for deepl translation."
   homepage ""
   url "https://github.com/shu-pf/dpl/releases/download/v1.0.1/dpl-macos-arm64"
-  sha256 "74ef06b9d87f290fbc3ee436e46096bf35da8ee5a61c86d79948b36d6ec49d6b"
+  sha256 "585e190fb80135fcf2abc82d44ff28d7f94c6d2f2eec3df4b46def5cb5ea8063"
   license ""
 
   # depends_on "cmake" => :build
