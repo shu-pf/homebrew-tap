@@ -13,4 +13,8 @@ class Dpl < Formula
   def install
     bin.install "dpl-macos-arm64" => "dpl"
   end
+
+  def upgrade
+    bin.install "dpl-macos-arm64" => "dpl"
+  end
 end
