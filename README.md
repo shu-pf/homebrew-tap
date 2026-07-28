@@ -1,21 +1,23 @@
-# Homebrew Tap Repository
+# shu-pf Homebrew Tap
 
-Welcome to the Homebrew Tap repository! This repository is used to host custom Homebrew formulae and casks.
+Homebrew formulae and casks maintained by shu-pf.
 
-## How to Use
+## MeetingScribe
 
-To use this tap, you can follow these steps:
+Install the latest release:
 
-1. Install Homebrew if you haven't already. You can find installation instructions at [https://brew.sh](https://brew.sh).
-
-2. Tap this repository by running the following command in your terminal:
-
-```shell
-brew tap shu-pf/tap
+```sh
+brew install --cask shu-pf/tap/meeting-scribe
 ```
 
-3. Once the tap is successfully added, you can install formulae or casks from this tap using the `brew install` or `brew cask install` commands respectively.
+MeetingScribe currently requires an Apple Silicon Mac running macOS 15 or
+later. It includes Sparkle for automatic updates.
 
-## License
+## Other packages
 
-This repository is licensed under the [MIT License](LICENSE).
+Tap the repository first, then install a formula by name:
+
+```sh
+brew tap shu-pf/tap
+brew install dpl
+```
