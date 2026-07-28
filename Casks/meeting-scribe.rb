@@ -1,6 +1,6 @@
 cask "meeting-scribe" do
-  version "1.4.1"
-  sha256 "56abc32031a4d8e6190ea54b59eaabb167755441a3ae574497c14e16f7943cc6"
+  version "1.4.2"
+  sha256 "8a6d705e3d8b0f76c3f53ea5ed7bf3d75729f4930e4ce7ca5313d3452df2ed3b"
 
   url "https://github.com/shu-pf/meeting-scribe/releases/download/v#{version}/MeetingScribe.dmg"
   name "MeetingScribe"
